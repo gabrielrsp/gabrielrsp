@@ -9,7 +9,7 @@ I recently participated in the hackathon of the Federal University of Goias wher
 
 I'm Currently focused on the Stack ReactJS and Node.js to develop applications with the best performance, creating great user experiences, and most important, keeping things easy for users.
 
-these are some of my published projects 
+These are some of my published projects 
 
 www.appmyshelf.com - Application for collection of books, notes, quotes and storage of files from Kindle ebooks.
 
