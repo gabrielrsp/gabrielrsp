@@ -5,7 +5,7 @@ I'm a brazilian fullstack developer and Information Systems undergraduate, passi
 
 I have 3 years of experience working at the State Department of Development and Innovation of the State of Goiás where I had an intense contact with technology in different stages of the software development process, like documentation, automated tests, database, versioning control and continuous integration. 
 
-I recently participated in the hackathon of the Federal University of Goias where my team and I developed a project to help students in the preparation of the final thesis and we won the first place
+I recently participated in the hackathon of the Federal University of Goias where my team and I developed a project to help students in the preparation of the final thesis and we won the first place.
 
 These are some of my published projects 
 
