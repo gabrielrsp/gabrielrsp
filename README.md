@@ -1,13 +1,11 @@
 ### Hi there, I'm Gabriel Rodrigues 👋
 
 
-I'm a brazilian fullstack developer and Information Systems undergraduate, passionate about technology and software development having experience in projects with Javascript. I'm in constant study, focused on becoming a better developer.
+I'm a brazilian fullstack developer and Information Systems undergraduate, passionate about technology and software development having experience in projects with Javascript. I'm in constant study, focused on becoming a better developer, creating applications with the best performance, great experiences, and most important, keeping things easy for users.
 
 I have 3 years of experience working at the State Department of Development and Innovation of the State of Goiás where I had an intense contact with technology in different stages of the software development process, like documentation, automated tests, database, versioning control and continuous integration. 
 
 I recently participated in the hackathon of the Federal University of Goias where my team and I developed a project to help students in the preparation of the final thesis and we won the first place
-
-I'm Currently focused on the Stack ReactJS and Node.js to develop applications with the best performance, creating great user experiences, and most important, keeping things easy for users.
 
 These are some of my published projects 
 
