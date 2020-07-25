@@ -7,12 +7,6 @@ I have 3 years of experience working at the State Department of Development and 
 
 I recently participated in the hackathon of the Federal University of Goias where my team and I developed a project to help students in the preparation of the final thesis and we won the first place.
 
-These are some of my published projects 
-
-www.appmyshelf.com - Application for collection of books, notes, quotes and storage of files from Kindle ebooks.
-
-https://appvuttr.netlify.app - Application for for managing tools with their respective names, links, descriptions and tags.
-
 
 **My current stack:**
 
