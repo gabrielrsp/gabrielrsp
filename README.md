@@ -1,7 +1,7 @@
 ### Hi there, I'm Gabriel Rodrigues 👋
 
 
-I'm a brazilian developer and Information Systems undergraduate, passionate about technology and software development having experience in projects with Javascript. I'm in constant study, focused on becoming a better developer, creating applications with the best performance, great experiences, and most important, keeping things easy for users.
+I'm a brazilian developer graduated in Information Systems, passionate about technology and software development having experience in projects with Javascript. I'm in constant study, focused on becoming a better developer, creating applications with the best performance, great experiences, and most important, keeping things easy for users.
 
 I had an experience working with frontend development on a company, creating interfaces for a warehouse management system where I've learn a lot of things using ReactJS using a lot of awesome libraries.
 
